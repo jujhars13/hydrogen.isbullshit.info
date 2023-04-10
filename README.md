@@ -1,6 +1,8 @@
 # hydrogen.isbullshit.info
 
-Hydrogen for personal transport is a load of bulls\*\*t
+Hydrogen for personal transport is a load of bulls\\*\\*t
+
+[![Deploy static content to Pages](https://github.com/jujhars13/hydrogen.isbullshit.info/actions/workflows/static-site-publish.yml/badge.svg)](https://github.com/jujhars13/hydrogen.isbullshit.info/actions/workflows/static-site-publish.yml)
 
 ## Deployment
 
