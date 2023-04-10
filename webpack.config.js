@@ -20,6 +20,7 @@ module.exports = {
     new CopyWebpackPlugin({
       patterns: [
         { from: "src/css", to: path.resolve(__dirname, "out/css") },
+        { from: "src/img", to: path.resolve(__dirname, "out/img") },
         {
           from: "node_modules/reveal.js/dist/*.css",
           to: path.resolve(__dirname, "out/css/"),
