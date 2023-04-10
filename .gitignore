@@ -1,3 +1,7 @@
+# don't include this in output
+out/
+node_modules/
+
 # vim
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
@@ -29,6 +33,3 @@ Session.vim
 .history
 
 # End of https://www.gitignore.io/api/visualstudiocode
-
-# don't include this in output
-out/
