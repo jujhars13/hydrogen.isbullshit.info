@@ -1,14 +1,18 @@
 # hydrogen.isbullshit.info
 
+[https://hydrogen.isbullshit.info]()
+
 Hydrogen for personal transport is a load of bulls\\*\\*t
+
+An informative website using [reveal.js](https://revealjs.com/)
 
 [![Deploy static content to Pages](https://github.com/jujhars13/hydrogen.isbullshit.info/actions/workflows/static-site-publish.yml/badge.svg)](https://github.com/jujhars13/hydrogen.isbullshit.info/actions/workflows/static-site-publish.yml)
 
 ## Deployment
 
-Deploying using github pages (hence the unorthodox use of the `/docs/` directory for publishing)
+Deployed using github pages
 
-## Building
+## Development
 
 ```bash
 # install deps locally
