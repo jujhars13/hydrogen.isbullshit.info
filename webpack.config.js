@@ -38,6 +38,10 @@ module.exports = {
           from: "src/favicon.ico",
           to: path.resolve(__dirname, "out/favicon.ico"),
         },
+        {
+          from: "src/slides.md",
+          to: path.resolve(__dirname, "out/slides.md"),
+        },
       ],
     }),
   ],

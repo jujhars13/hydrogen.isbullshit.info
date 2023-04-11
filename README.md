@@ -10,7 +10,7 @@ An informative website using [reveal.js](https://revealjs.com/)
 
 ## Deployment
 
-Deployed using github pages
+[Deployed](.github/workflows/static-site-publish.yml) using Github pages
 
 ## Development
 
@@ -27,3 +27,18 @@ npm run build
 npm run watch
 npm run serve
 ```
+
+## TODO
+
+- [ ] Intro page
+- [ ] Different colours of hydrogen
+- [ ] Hydrogen ladder
+- [ ] Hydrogen is good for
+- [ ] Myth - Hydrogen for transport
+- [ ] Myth - Hyrdogen for heating
+- [ ] Hydrogen is an excuse to keep polluting
+- [ ] Summary, hyrdrogen is good for this and not for this
+- [ ] Appendices
+  - [ ] The role of hydrogen in achieving net zero https://publications.parliament.uk/pa/cm5803/cmselect/cmsctech/99/report.html
+  - [ ] 12 hyrdogen cars sold in 2021
+  - [ ] references
