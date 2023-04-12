@@ -35,7 +35,8 @@
 
 ![](img/hydrogen-chart.jpg)
 
-830 Million Tonnes of Co2, 2% of global emissions
+- 830 Million Tonnes of Co2, 2% of global emissions
+- only 1% is Blue hydrogen
 
 ---DOWN
 
@@ -61,7 +62,7 @@
 
 ## Hydrogen is an excuse to keep polluting
 
----
+## <show hydrogen council members>
 
 ## Toyota
 
