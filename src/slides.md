@@ -68,8 +68,8 @@ Just 12 hyrdogen cars sold in 2021
 
 ### Blended hydrogen for heating is bulls\*\*t
 
-The blending of natural gas with about 20% hydrogen, for use in home heating systems, is one of the key recommendations by the government’s hydrogen champion, [Jane Toogood](https://www.gov.uk/government/news/hydrogen-champion-appointed-as-government-accelerates-uk-hydrogen-investment), in a report to ministers on how to produce and use hydrogen in the UK.
+Blending of natural gas with 20% hydrogen in home heating systems, is a key recommendations by the government's hydrogen champion, [Jane Toogood](https://www.gov.uk/government/news/hydrogen-champion-appointed-as-government-accelerates-uk-hydrogen-investment)
 
-> Using grid blending to shore up hydrogen demand creates unfair costs for consumers: A 20% hydrogen blend would increase gas costs by around 16%, while only reducing emissions by 7%, due to inefficiencies in burning hydrogen.
+> Using grid blending to shore up hydrogen demand creates unfair costs for consumers: A 20% hydrogen blend would increase gas costs by around 16%, while only reducing emissions by 7%, due to inefficiencies in burning hydrogen. -- e3g.org
 
 - https://www.e3g.org/news/coalition-warns-against-blending-hydrogen-into-the-gas-grid/
