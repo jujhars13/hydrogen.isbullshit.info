@@ -26,7 +26,7 @@ module.exports = {
           to: path.resolve(__dirname, "out/css"),
         },
         {
-          from: "node_modules/reveal.js/dist/layout.css",
+          from: "node_modules/reveal.js/dist/reset.css",
           to: path.resolve(__dirname, "out/css"),
         },
         {
