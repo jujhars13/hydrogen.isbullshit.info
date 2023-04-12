@@ -10,6 +10,8 @@ A paragraph with some text and a [link](https://hakim.se).
 
 ## The different 'colours' of hydrodgen
 
+![](img/hydrogen-colours.png)
+
 ---
 
 ## The hydrodgen ladder
