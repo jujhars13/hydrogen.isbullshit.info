@@ -22,16 +22,16 @@ module.exports = {
         { from: "src/css", to: path.resolve(__dirname, "out/css") },
         { from: "src/img", to: path.resolve(__dirname, "out/img") },
         {
-          from: "node_modules/reveal.js/dist/*.css",
-          to: path.resolve(__dirname, "out/css/"),
+          from: "node_modules/reveal.js/dist/reveal.css",
+          to: path.resolve(__dirname, "out/css"),
+        },
+        {
+          from: "node_modules/reveal.js/dist/layout.css",
+          to: path.resolve(__dirname, "out/css"),
         },
         {
           from: "node_modules/reveal.js/dist/theme",
-          to: path.resolve(__dirname, "out/css/"),
-        },
-        {
-          from: "node_modules/reveal.js/dist/theme/fonts",
-          to: path.resolve(__dirname, "out/css/"),
+          to: path.resolve(__dirname, "out/css/theme"),
         },
         { from: "src/js", to: path.resolve(__dirname, "out/js") },
         {
