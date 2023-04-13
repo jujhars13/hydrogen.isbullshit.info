@@ -12,7 +12,7 @@
 
 - Hydrogen is the most abundant element in the universe
 - It's almost always bound to another element, takes a lot of energy to separate it
-- We've known about Hydrogen for a long time (lindenburg)
+- We've known about Hydrogen for a long time (Lindenburg, Toyota FCHV-1)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---DOWN
 
-## What H is good for?
+## What H is needed for?
 
 - Fertiliser
 - Petrochemical production
@@ -48,7 +48,7 @@ No real alternatives here
 | Colour            | Production                         | Co2e     |
 | ----------------- | ---------------------------------- | -------- |
 | White             | Mining                             | ?        |
-| Black             | Coal                               | ?        |
+| Black             | Coal gasification                  | ?        |
 | Grey              | Steam reforming methane            | 550g/kWh |
 | Blue              | Steam reforming methane w/ "CCS"   | 486g/kWh |
 | Green/Yellow/Pink | Electrolysis from Wind/Sun/Nuclear | 200g/kWh |
@@ -61,7 +61,7 @@ No real alternatives here
 
 - 830 Million Tonnes of Co2, 2% of global emissions
 - only 1% is Blue hydrogen
-- Burning methane directly produces between 400 to 600g/kWh
+- Burning methane directly produces ~550g/kWh
 
 ---
 
@@ -74,22 +74,29 @@ No real alternatives here
 ## H problems
 
 - It's really explosive
+- Even with the best will in the world it leaks
+  - It's the smallest element after all
+  - It's a greenhouse gas
+- Pressure/Temp
+  - It turns liquid at -259.14&#8451;
+  - or at 1.239 MPa / 179.7 psi
 
 ---
 
 ## Myth - H for short range transport is bulls\*\*t
 
 - Two types: Electrolysis Vs Direct Combustion
-- Pressure/Temp (Toyota/BMW)
-- Cost
+- Cost $$$$
 
 ---DOWN
 
 ### Electrolysis based
 
 - [Toyota FCHV-1 first released in 1996](https://en.wikipedia.org/wiki/List_of_fuel_cell_vehicles)
-- Rare earth metals
-- Speed 0 to 60mph (for a £50k car):
+- Rare earth metals: Plantinum and Iridium
+- ~50% efficiency
+- Fueling stations keep failing
+- Speed 0 to 60mph (for a &pound;50k car):
   - Toyota Mirai: 9.35s
   - Ford Mach-E: 3.8s
 
@@ -97,30 +104,48 @@ No real alternatives here
 
 ### Direct combustion
 
-- NO (bad for health)
+- Hydrogen Embrittlement
+  - Increased Maintenance
+  - Higher quality parts - $$$$
+- NOx (bad for health)
+- Only ~25% efficiency
+- H has low energy density by volume
+  - Energy to keep H at -259.14&#8451; (low temp or high pressure)
+- Can't keep it in your garage, it could blow up
 
 ---DOWN
 
 #### H based cost
 
-£12 per kilo,~62 miles per kilo
+&pound;12 per kilo,~62 miles per kilo
 
-So to do 62 Miles:
+So to do 60 Miles:
 
-| power train          | cost/60 miles |
-| -------------------- | ------------- |
-| Hydrogen Electrolsys | ~£11.40       |
-| Hydrogen Combustion  | ~£22          |
-| Diesel (40mpg)       | ~£11.49       |
-| Petrol (40mpg)       | ~£10.02       |
-| BEV (3 m/kWh)        | ~£7.20/£1.40  |
+| power train          | cost/60 miles            |
+| -------------------- | ------------------------ |
+| Hydrogen Electrolsys | ~&pound;11.40            |
+| Hydrogen Combustion  | ~&pound;22               |
+| Diesel (40mpg)       | ~&pound;11.49            |
+| Petrol (40mpg)       | ~&pound;10.02            |
+| BEV (3 m/kWh)        | ~&pound;7.20/&pound;1.40 |
+
+---DOWN
+
+#### H based efficiency
+
+Assuming we're using green electricity:
+
+- 75 kWh of electricity to produce 1kg of Hydrogen (no transport and storage included)
+- 1kg of hydrogen takes you **62 miles** in a Fuel Cell Car
+- 75kWh of electricity into a Tesla Model Y gives you **240 miles**
 
 ---
 
 ## Myth - H for long transport is bulls\*\*t
 
-- Volume
-- Kerosene is better until power/weight of batteries can come down
+- Shipping: Methane (5x less volume, far less explosive, tanks are cheaper)
+- Long Haul Lorries: Diesel
+- Flying: Kerosene is best until power/weight of batteries can come down
 
 ---
 
@@ -128,6 +153,9 @@ So to do 62 Miles:
 
 - Hydrogen Embrittlement
 - Twice as expensive as methane
+- Distribution of hydrogen, replace all pipework and boilers
+- Just burn methane and add more insulation
+- \<TODO add heat pump data\>
 
 ---
 
@@ -147,7 +175,7 @@ So to do 62 Miles:
 
 ## In Summa
 
-Hyrdrogen is good for this and not for this
+<Hydrogen is good for this and not for this>
 
 ---
 
