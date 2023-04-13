@@ -1,5 +1,7 @@
 # Hydrodgen is bullsh\*\*t\*
 
+![](img/hydrogen-symbol.jpg)
+
 (\*for most things)
 
 ---
@@ -9,62 +11,137 @@
 ![](img/hydrogen-symbol.jpg)
 
 - Hydrogen is the most abundant element in the universe
-- It's almost always bound to another element
+- It's almost always bound to another element, takes a lot of energy to separate it
+- We've known about Hydrogen for a long time (lindenburg)
+
+---
+
+## The H ladder
+
+![](img/hydrogen-ladder.jpg)
 
 ---DOWN
 
-### The different 'colours' of hydrodgen
+## The role of H
+
+![](img/role-of-hydrogen.jpg)
+
+---DOWN
+
+## What H is good for?
+
+- Fertiliser
+- Petrochemical production
+
+No real alternatives here
+
+---
+
+## The different 'colours' of H
 
 ![](img/hydrogen-colours.png)
 
 ---DOWN
 
-### The different 'colours' of hydrodgen
+### The different 'colours' of H
 
-| Colour            | Production                          |
-| ----------------- | ----------------------------------- |
-| White             | Mining                              |
-| Black             | Coal                                |
-| Grey              | Steam reforming of methane          |
-| Blue              | Steam reforming of methane w/ "CCS" |
-| Green/Yellow/Pink | Electrolysis from Wind/Sun/Nuclear  |
+| Colour            | Production                         | Co2e     |
+| ----------------- | ---------------------------------- | -------- |
+| White             | Mining                             | ?        |
+| Black             | Coal                               | ?        |
+| Grey              | Steam reforming methane            | 550g/kWh |
+| Blue              | Steam reforming methane w/ "CCS"   | 486g/kWh |
+| Green/Yellow/Pink | Electrolysis from Wind/Sun/Nuclear | 200g/kWh |
 
 ---DOWN
 
-#### Current hydrogen generation
+## Current H generation
 
 ![](img/hydrogen-chart.jpg)
 
 - 830 Million Tonnes of Co2, 2% of global emissions
 - only 1% is Blue hydrogen
+- Burning methane directly produces between 400 to 600g/kWh
+
+---
+
+## H problems
+
+![midjourney](img/hindenburg-midjourney-small.png)
 
 ---DOWN
 
-## The hydrodgen ladder
+## H problems
+
+- It's really explosive
+
+---
+
+## Myth - H for short range transport is bulls\*\*t
+
+- Two types: Electrolysis Vs Direct Combustion
+- Pressure/Temp (Toyota/BMW)
+- Cost
 
 ---DOWN
 
-## What hydrogen is good for?
+### Electrolysis based
+
+- [Toyota FCHV-1 first released in 1996](https://en.wikipedia.org/wiki/List_of_fuel_cell_vehicles)
+- Rare earth metals
+- Speed 0 to 60mph (for a £50k car):
+  - Toyota Mirai: 9.35s
+  - Ford Mach-E: 3.8s
+
+---DOWN
+
+### Direct combustion
+
+- NO (bad for health)
+
+---DOWN
+
+#### H based cost
+
+£12 per kilo,~62 miles per kilo
+
+So to do 62 Miles:
+
+| power train          | cost/60 miles |
+| -------------------- | ------------- |
+| Hydrogen Electrolsys | ~£11.40       |
+| Hydrogen Combustion  | ~£22          |
+| Diesel (40mpg)       | ~£11.49       |
+| Petrol (40mpg)       | ~£10.02       |
+| BEV (3 m/kWh)        | ~£7.20/£1.40  |
 
 ---
 
-## Myth - Hydrogen for short range transport is bulls\*\*t
+## Myth - H for long transport is bulls\*\*t
+
+- Volume
+- Kerosene is better until power/weight of batteries can come down
 
 ---
 
-## Myth - Hydrogen for long range transport is bulls\*\*t
+### Myth - H for heating is bulls\*\*t
+
+- Hydrogen Embrittlement
+- Twice as expensive as methane
 
 ---
 
-### Myth - Hyrdogen for heating is bulls\*\*t
+## H is an excuse to keep polluting
 
----
+[Hydrogen Council](https://en.wikipedia.org/wiki/Hydrogen_Council)
 
-## Hydrogen is an excuse to keep polluting
-
-## <show hydrogen council members>
-
-## Toyota
+- Saudi Aramco
+- Bp
+- Shell
+- Total Energies
+- Toyota
+- Indian Oil
+- Toyota
 
 ---
 
