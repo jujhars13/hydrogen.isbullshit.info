@@ -96,9 +96,12 @@ No real alternatives here
 - Rare earth metals: Plantinum and Iridium
 - ~50% efficiency
 - Fueling stations keep failing
-- Speed 0 to 60mph (for a &pound;50k car):
+- Slow: 0 to 60mph (for a &pound;50k car):
   - Toyota Mirai: 9.35s
   - Ford Mach-E: 3.8s
+- Only 12 sold in the UK in 2021
+  - BEV 190,727
+  - Fossil and other noise 1,456,442
 
 ---DOWN
 
@@ -121,23 +124,34 @@ No real alternatives here
 
 So to do 60 Miles:
 
-| power train          | cost/60 miles            |
-| -------------------- | ------------------------ |
-| Hydrogen Electrolsys | ~&pound;11.40            |
-| Hydrogen Combustion  | ~&pound;22               |
-| Diesel (40mpg)       | ~&pound;11.49            |
-| Petrol (40mpg)       | ~&pound;10.02            |
-| BEV (3 m/kWh)        | ~&pound;7.20/&pound;1.40 |
+| Power train         | Cost/60 miles             |
+| ------------------- | ------------------------- |
+| Hydrogen FCV        | ~ &pound;11.40            |
+| Hydrogen Combustion | ~ &pound;22               |
+| Diesel (40mpg)      | ~ &pound;11.49            |
+| Petrol (40mpg)      | ~ &pound;10.02            |
+| BEV (3 m/kWh)       | ~ &pound;7.20/&pound;1.40 |
 
 ---DOWN
 
 #### H based efficiency
 
-Assuming we're using green electricity:
+(Assuming we're using green electricity)
 
-- 75 kWh of electricity to produce 1kg of Hydrogen (no transport and storage included)
-- 1kg of hydrogen takes you **62 miles** in a Fuel Cell Car
-- 75kWh of electricity into a Tesla Model Y gives you **240 miles**
+- 1 Gallon of petrol ~ 41kWh, @40mpg = 40 miles
+- 75kWh of electricity to produce 1kg of Hydrogen (no transport and storage included)
+  - 1kg of hydrogen takes you **62 miles** in a Fuel Cell Car
+- 75kWh of electricity into a Tesla Model Y gives you **240 miles** almost **3.8x more efficient**
+
+---DOWN
+
+#### Energy efficiency
+
+| Power train    | Miles per kWh |
+| -------------- | ------------- |
+| Hydrogen FCV   | 0.83 miles    |
+| Petrol (40mpg) | 0.98 miles    |
+| BEV (3 m/kWh)  | 3 miles       |
 
 ---
 
